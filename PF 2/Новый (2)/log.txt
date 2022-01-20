@@ -1,0 +1,17 @@
+2020-11-12   17-57-08--462	dtime:	75,859	search time:66,781	time on site:	9,078	>
+2020-11-12   17-57-16--321	dtime:	66,422	search time:55,406	time on site:	11,016	>
+2020-11-12   17-58-51--548	dtime:		search time:	time on site:		>
+2020-11-12   17-58-57--984	dtime:		search time:	time on site:		>
+2020-11-12   18-00-25--487	dtime:		search time:	time on site:		>
+2020-11-12   18-00-31--383	dtime:		search time:	time on site:		>
+2020-11-12   18-01-51--528	dtime:		search time:	time on site:		>
+2020-11-12   18-03-33--511	dtime:		search time:	time on site:		>
+2020-11-12   18-04-46--306	dtime:		search time:	time on site:		>
+2020-11-12   18-05-01--654	dtime:	58,437	search time:49,656	time on site:	8,781	>
+2020-11-12   18-06-13--385	dtime:		search time:	time on site:		>
+2020-11-12   18-07-30--654	dtime:		search time:	time on site:		>
+2020-11-12   18-08-11--005	dtime:	69,687	search time:60,765	time on site:	8,922	>
+2020-11-12   18-10-23--294	dtime:	56,953	search time:40,063	time on site:	16,89	>
+2020-11-12   18-11-11--346	dtime:	58,281	search time:48,562	time on site:	9,719	>
+2020-11-12   18-12-20--267	dtime:		search time:	time on site:		>
+2020-11-12   18-14-48--691	dtime:	64,672	search time:55,75	time on site:	8,922	>
