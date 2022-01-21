@@ -1,0 +1,44 @@
+Start: 01/21/2022 16:32:05
+	Project Name:G PF norm m3.zp
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 5432,172
+	End: 01/21/2022 18:03:08
+-------
+Start: 01/21/2022 18:09:19
+	Project Name:G PF norm m3.zp
+	L:2
+	SL:0
+	keywork:купить айфон
+	res_profile:OK
+	Dtime: 3825,25
+	End: 01/21/2022 19:13:38
+-------
+Start: 01/21/2022 20:13:10
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:
+	Dtime: 321,578
+	End: 01/21/2022 20:19:18
+-------
+Start: 01/21/2022 20:20:20
+	Project Name:G PF norm m3.zp
+	keywork:купить айфон
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 860,25
+	End: 01/21/2022 20:34:40
+-------
+Start: 01/21/2022 20:35:15
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 355,687
+	End: 01/21/2022 20:41:11
+-------
