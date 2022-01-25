@@ -42,3 +42,3623 @@ Start: 01/21/2022 20:35:15
 	Dtime: 355,687
 	End: 01/21/2022 20:41:11
 -------
+Start: 01/21/2022 20:48:12
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 227,313
+	End: 01/21/2022 20:51:56
+-------
+Start: 01/21/2022 20:49:14
+	Project Name:G PF norm m7.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 256,39
+	End: 01/21/2022 20:53:30
+-------
+Start: 01/21/2022 20:52:05
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 170,985
+	End: 01/21/2022 20:54:56
+-------
+Start: 01/21/2022 20:57:03
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 216,656
+	End: 01/21/2022 21:00:40
+-------
+Start: 01/21/2022 21:05:47
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 256,75
+	End: 01/21/2022 21:10:03
+-------
+Start: 01/21/2022 21:15:17
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 227,141
+	End: 01/21/2022 21:19:04
+-------
+Start: 01/21/2022 21:24:12
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 206,422
+	End: 01/21/2022 21:27:38
+-------
+Start: 01/21/2022 21:32:45
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 266,641
+	End: 01/21/2022 21:37:11
+-------
+Start: 01/21/2022 21:42:19
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 332,359
+	End: 01/21/2022 21:47:51
+-------
+Start: 01/21/2022 21:52:58
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 230,563
+	End: 01/21/2022 21:56:49
+-------
+Start: 01/21/2022 22:05:55
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 477,984
+	End: 01/21/2022 22:09:52
+-------
+Start: 01/21/2022 22:14:59
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 272,407
+	End: 01/21/2022 22:19:31
+-------
+Start: 01/21/2022 22:24:45
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 263,296
+	End: 01/21/2022 22:29:08
+-------
+Start: 01/21/2022 22:38:22
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 504,704
+	End: 01/21/2022 22:42:46
+-------
+Start: 01/21/2022 22:47:52
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 238,313
+	End: 01/21/2022 22:51:50
+-------
+Start: 01/21/2022 22:56:57
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 112,938
+	End: 01/21/2022 22:58:50
+-------
+Start: 01/21/2022 23:04:03
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 232,438
+	End: 01/21/2022 23:07:55
+-------
+Start: 01/21/2022 23:12:59
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 199,375
+	End: 01/21/2022 23:16:19
+-------
+Start: 01/21/2022 23:25:32
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 446,782
+	End: 01/21/2022 23:28:58
+-------
+Start: 01/21/2022 23:34:06
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 259,265
+	End: 01/21/2022 23:38:25
+-------
+Start: 01/21/2022 23:43:32
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 210,234
+	End: 01/21/2022 23:47:02
+-------
+Start: 01/21/2022 23:56:09
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 467,688
+	End: 01/21/2022 23:59:56
+-------
+Start: 01/22/2022 00:09:03
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 525,407
+	End: 01/22/2022 00:13:48
+-------
+Start: 01/22/2022 00:22:54
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 572,11
+	End: 01/22/2022 00:28:25
+-------
+Start: 01/22/2022 00:33:32
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 292,125
+	End: 01/22/2022 00:38:24
+-------
+Start: 01/22/2022 00:43:31
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 249
+	End: 01/22/2022 00:47:40
+-------
+Start: 01/22/2022 00:52:47
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 228,75
+	End: 01/22/2022 00:56:36
+-------
+Start: 01/22/2022 01:05:42
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 438,829
+	End: 01/22/2022 01:09:00
+-------
+Start: 01/22/2022 01:14:04
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 81,125
+	End: 01/22/2022 01:15:25
+-------
+Start: 01/22/2022 01:20:30
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 226,625
+	End: 01/22/2022 01:24:17
+-------
+Start: 01/22/2022 01:33:24
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 474,078
+	End: 01/22/2022 01:37:17
+-------
+Start: 01/22/2022 01:46:23
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 489
+	End: 01/22/2022 01:50:32
+-------
+Start: 01/22/2022 01:59:40
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 476
+	End: 01/22/2022 02:03:35
+-------
+Start: 01/22/2022 02:12:42
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 479,906
+	End: 01/22/2022 02:16:41
+-------
+Start: 01/22/2022 02:25:48
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 469,375
+	End: 01/22/2022 02:29:37
+-------
+Start: 01/22/2022 02:38:52
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 464,797
+	End: 01/22/2022 02:42:36
+-------
+Start: 01/22/2022 02:47:48
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 243,016
+	End: 01/22/2022 02:51:51
+-------
+Start: 01/22/2022 03:01:02
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 606,782
+	End: 01/22/2022 03:07:08
+-------
+Start: 01/22/2022 03:16:14
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 482,64
+	End: 01/22/2022 03:20:16
+-------
+Start: 01/22/2022 03:29:24
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 362,218
+	End: 01/22/2022 03:31:26
+-------
+Start: 01/22/2022 03:36:33
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 249,672
+	End: 01/22/2022 03:40:43
+-------
+Start: 01/22/2022 03:49:51
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 488
+	End: 01/22/2022 03:53:58
+-------
+Start: 01/22/2022 03:59:12
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 253,719
+	End: 01/22/2022 04:03:26
+-------
+Start: 01/22/2022 04:08:33
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 164,687
+	End: 01/22/2022 04:11:18
+-------
+Start: 01/22/2022 04:20:26
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 466,203
+	End: 01/22/2022 04:24:12
+-------
+Start: 01/22/2022 04:29:18
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 152,938
+	End: 01/22/2022 04:31:50
+-------
+Start: 01/22/2022 04:40:59
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 476,11
+	End: 01/22/2022 04:44:54
+-------
+Start: 01/22/2022 04:50:01
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 215,516
+	End: 01/22/2022 04:53:37
+-------
+Start: 01/22/2022 04:58:44
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 237,157
+	End: 01/22/2022 05:02:41
+-------
+Start: 01/22/2022 05:11:48
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 488,797
+	End: 01/22/2022 05:15:56
+-------
+Start: 01/22/2022 05:21:05
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 249,656
+	End: 01/22/2022 05:25:15
+-------
+Start: 01/22/2022 05:30:22
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 214,031
+	End: 01/22/2022 05:33:56
+-------
+Start: 01/22/2022 05:43:01
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 430,047
+	End: 01/22/2022 05:46:10
+-------
+Start: 01/22/2022 05:55:17
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 340,718
+	End: 01/22/2022 05:56:57
+-------
+Start: 01/22/2022 06:06:05
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 477,75
+	End: 01/22/2022 06:10:02
+-------
+Start: 01/22/2022 06:15:08
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 267,25
+	End: 01/22/2022 06:19:36
+-------
+Start: 01/22/2022 06:24:43
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 168,187
+	End: 01/22/2022 06:27:31
+-------
+Start: 01/22/2022 06:32:37
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 228,359
+	End: 01/22/2022 06:36:25
+-------
+Start: 01/22/2022 06:41:32
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 272,422
+	End: 01/22/2022 06:46:05
+-------
+Start: 01/22/2022 06:55:12
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 512,172
+	End: 01/22/2022 06:59:44
+-------
+Start: 01/22/2022 07:04:51
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 168,312
+	End: 01/22/2022 07:07:39
+-------
+Start: 01/22/2022 07:16:46
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 478,422
+	End: 01/22/2022 07:20:44
+-------
+Start: 01/22/2022 07:25:51
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 237,797
+	End: 01/22/2022 07:29:49
+-------
+Start: 01/22/2022 07:34:56
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 50,406
+	End: 01/22/2022 07:35:46
+-------
+Start: 01/22/2022 07:40:53
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 138,906
+	End: 01/22/2022 07:43:11
+-------
+Start: 01/22/2022 07:48:24
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 210,406
+	End: 01/22/2022 07:51:55
+-------
+Start: 01/22/2022 07:57:02
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 229,407
+	End: 01/22/2022 08:00:51
+-------
+Start: 01/22/2022 08:05:58
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 42,062
+	End: 01/22/2022 08:06:40
+-------
+Start: 01/22/2022 08:11:55
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 231,579
+	End: 01/22/2022 08:15:47
+-------
+Start: 01/22/2022 08:20:54
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 226,125
+	End: 01/22/2022 08:24:40
+-------
+Start: 01/22/2022 08:29:48
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 216,218
+	End: 01/22/2022 08:33:24
+-------
+Start: 01/22/2022 08:38:32
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 221,828
+	End: 01/22/2022 08:42:14
+-------
+Start: 01/22/2022 08:47:21
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 222,797
+	End: 01/22/2022 08:51:03
+-------
+Start: 01/22/2022 08:56:10
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 221,891
+	End: 01/22/2022 08:59:52
+-------
+Start: 01/22/2022 09:05:00
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 242,921
+	End: 01/22/2022 09:09:03
+-------
+Start: 01/22/2022 09:18:11
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 470,906
+	End: 01/22/2022 09:22:01
+-------
+Start: 01/22/2022 09:31:08
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 474,062
+	End: 01/22/2022 09:35:01
+-------
+Start: 01/22/2022 09:40:09
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 228,719
+	End: 01/22/2022 09:43:57
+-------
+Start: 01/22/2022 09:49:12
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 256,812
+	End: 01/22/2022 09:53:29
+-------
+Start: 01/22/2022 09:58:36
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 101,187
+	End: 01/22/2022 10:00:17
+-------
+Start: 01/22/2022 10:05:24
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 232,625
+	End: 01/22/2022 10:09:16
+-------
+Start: 01/22/2022 10:14:31
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 190,234
+	End: 01/22/2022 10:17:41
+-------
+Start: 01/22/2022 10:22:47
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 194,312
+	End: 01/22/2022 10:26:01
+-------
+Start: 01/22/2022 10:31:09
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 208,297
+	End: 01/22/2022 10:34:37
+-------
+Start: 01/22/2022 10:39:42
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 304,562
+	End: 01/22/2022 10:44:47
+-------
+Start: 01/22/2022 10:49:52
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 252,031
+	End: 01/22/2022 10:54:04
+-------
+Start: 01/22/2022 10:59:11
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 114,937
+	End: 01/22/2022 11:01:06
+-------
+Start: 01/22/2022 11:06:17
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 224,531
+	End: 01/22/2022 11:10:02
+-------
+Start: 01/22/2022 11:15:09
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 173,406
+	End: 01/22/2022 11:18:03
+-------
+Start: 01/22/2022 11:23:08
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 295,359
+	End: 01/22/2022 11:28:04
+-------
+Start: 01/22/2022 11:33:11
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 229,828
+	End: 01/22/2022 11:37:01
+-------
+Start: 01/22/2022 11:42:08
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 226,063
+	End: 01/22/2022 11:45:54
+-------
+Start: 01/22/2022 11:55:03
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 409,813
+	End: 01/22/2022 11:57:52
+-------
+Start: 01/22/2022 12:03:00
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 273,328
+	End: 01/22/2022 12:07:33
+-------
+Start: 01/22/2022 12:12:38
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 332,172
+	End: 01/22/2022 12:18:10
+-------
+Start: 01/22/2022 12:23:18
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 137,5
+	End: 01/22/2022 12:25:35
+-------
+Start: 01/22/2022 12:34:51
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 394,672
+	End: 01/22/2022 12:37:25
+-------
+Start: 01/22/2022 12:42:38
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 218,219
+	End: 01/22/2022 12:46:17
+-------
+Start: 01/22/2022 12:51:24
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 166,391
+	End: 01/22/2022 12:54:10
+-------
+Start: 01/22/2022 12:59:17
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 241,266
+	End: 01/22/2022 13:03:18
+-------
+Start: 01/22/2022 13:08:33
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 104,891
+	End: 01/22/2022 13:10:18
+-------
+Start: 01/22/2022 13:19:32
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 495,422
+	End: 01/22/2022 13:23:47
+-------
+Start: 01/22/2022 13:28:53
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 286,75
+	End: 01/22/2022 13:33:40
+-------
+Start: 01/22/2022 13:38:44
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 233,61
+	End: 01/22/2022 13:42:38
+-------
+Start: 01/22/2022 13:51:52
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 421,953
+	End: 01/22/2022 13:54:53
+-------
+Start: 01/22/2022 14:00:03
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 45,203
+	End: 01/22/2022 14:00:49
+-------
+Start: 01/22/2022 14:05:58
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 472,484
+	End: 01/22/2022 14:13:51
+-------
+Start: 01/22/2022 14:22:58
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 468,672
+	End: 01/22/2022 14:26:46
+-------
+Start: 01/22/2022 14:35:53
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 469,75
+	End: 01/22/2022 14:39:42
+-------
+Start: 01/22/2022 14:44:48
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 212,688
+	End: 01/22/2022 14:48:20
+-------
+Start: 01/22/2022 14:53:27
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 228,719
+	End: 01/22/2022 14:57:15
+-------
+Start: 01/22/2022 15:02:22
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 239,297
+	End: 01/22/2022 15:06:21
+-------
+Start: 01/22/2022 15:15:29
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 443,703
+	End: 01/22/2022 15:18:52
+-------
+Start: 01/22/2022 15:24:05
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 81,312
+	End: 01/22/2022 15:25:27
+-------
+Start: 01/22/2022 15:30:32
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 249,954
+	End: 01/22/2022 15:34:41
+-------
+Start: 01/22/2022 15:39:49
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 92,547
+	End: 01/22/2022 15:41:21
+-------
+Start: 01/22/2022 15:46:28
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 234,688
+	End: 01/22/2022 15:50:22
+-------
+Start: 01/22/2022 15:55:30
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 245,172
+	End: 01/22/2022 15:59:35
+-------
+Start: 01/22/2022 16:08:43
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 284,797
+	End: 01/22/2022 16:09:27
+-------
+Start: 01/22/2022 16:14:35
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 311,672
+	End: 01/22/2022 16:19:47
+-------
+Start: 01/22/2022 16:25:01
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 120,484
+	End: 01/22/2022 16:27:01
+-------
+Start: 01/22/2022 16:32:08
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 157,828
+	End: 01/22/2022 16:34:46
+-------
+Start: 01/22/2022 16:39:52
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 133,437
+	End: 01/22/2022 16:42:06
+-------
+Start: 01/22/2022 16:47:12
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 208,578
+	End: 01/22/2022 16:50:41
+-------
+Start: 01/22/2022 16:55:54
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 232,094
+	End: 01/22/2022 16:59:46
+-------
+Start: 01/22/2022 17:04:54
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 79,016
+	End: 01/22/2022 17:06:13
+-------
+Start: 01/22/2022 17:11:18
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 201,328
+	End: 01/22/2022 17:14:39
+-------
+Start: 01/22/2022 17:19:47
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 83,203
+	End: 01/22/2022 17:21:10
+-------
+Start: 01/22/2022 17:26:18
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 256,235
+	End: 01/22/2022 17:30:34
+-------
+Start: 01/22/2022 17:35:41
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 218,485
+	End: 01/22/2022 17:39:19
+-------
+Start: 01/22/2022 17:44:27
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 250,062
+	End: 01/22/2022 17:48:37
+-------
+Start: 01/22/2022 17:53:42
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 154,469
+	End: 01/22/2022 17:56:16
+-------
+Start: 01/22/2022 18:01:23
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 192
+	End: 01/22/2022 18:04:35
+-------
+Start: 01/22/2022 18:09:41
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 213,937
+	End: 01/22/2022 18:13:15
+-------
+Start: 01/22/2022 18:18:28
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 233,265
+	End: 01/22/2022 18:22:21
+-------
+Start: 01/22/2022 18:27:28
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 234,937
+	End: 01/22/2022 18:31:23
+-------
+Start: 01/22/2022 18:36:37
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 215,719
+	End: 01/22/2022 18:40:13
+-------
+Start: 01/22/2022 18:45:19
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 215,797
+	End: 01/22/2022 18:48:55
+-------
+Start: 01/22/2022 18:59:48
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 214,469
+	End: 01/22/2022 19:03:23
+-------
+Start: 01/22/2022 19:08:30
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 229,141
+	End: 01/22/2022 19:12:19
+-------
+Start: 01/22/2022 19:17:27
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 195,61
+	End: 01/22/2022 19:20:42
+-------
+Start: 01/22/2022 19:25:49
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 235,281
+	End: 01/22/2022 19:29:44
+-------
+Start: 01/22/2022 19:34:51
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 234,531
+	End: 01/22/2022 19:38:45
+-------
+Start: 01/22/2022 19:43:49
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 76,313
+	End: 01/22/2022 19:45:06
+-------
+Start: 01/22/2022 19:50:10
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 252,359
+	End: 01/22/2022 19:54:23
+-------
+Start: 01/22/2022 19:59:28
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 150,391
+	End: 01/22/2022 20:01:58
+-------
+Start: 01/22/2022 20:07:07
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 213,015
+	End: 01/22/2022 20:10:40
+-------
+Start: 01/22/2022 20:15:54
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 214,547
+	End: 01/22/2022 20:19:28
+-------
+Start: 01/22/2022 20:24:42
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 209,922
+	End: 01/22/2022 20:28:12
+-------
+Start: 01/22/2022 20:33:18
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 219
+	End: 01/22/2022 20:36:57
+-------
+Start: 01/22/2022 20:42:09
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 247,359
+	End: 01/22/2022 20:46:17
+-------
+Start: 01/22/2022 20:51:24
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 232,359
+	End: 01/22/2022 20:55:16
+-------
+Start: 01/22/2022 21:00:27
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 213,625
+	End: 01/22/2022 21:04:01
+-------
+Start: 01/22/2022 21:13:07
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 616,953
+	End: 01/22/2022 21:19:24
+-------
+Start: 01/22/2022 21:24:31
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 82,844
+	End: 01/22/2022 21:25:53
+-------
+Start: 01/22/2022 21:31:05
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 189,281
+	End: 01/22/2022 21:34:14
+-------
+Start: 01/22/2022 21:39:28
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 54,657
+	End: 01/22/2022 21:40:23
+-------
+Start: 01/22/2022 21:45:30
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 233,547
+	End: 01/22/2022 21:49:23
+-------
+Start: 01/22/2022 21:54:37
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 184,516
+	End: 01/22/2022 21:57:42
+-------
+Start: 01/22/2022 22:06:47
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 455,797
+	End: 01/22/2022 22:10:22
+-------
+Start: 01/22/2022 22:19:28
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 488,969
+	End: 01/22/2022 22:23:37
+-------
+Start: 01/22/2022 22:28:41
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 273,219
+	End: 01/22/2022 22:33:15
+-------
+Start: 01/22/2022 22:38:29
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 323,219
+	End: 01/22/2022 22:43:53
+-------
+Start: 01/22/2022 22:49:06
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 230,062
+	End: 01/22/2022 22:52:56
+-------
+Start: 01/22/2022 22:58:02
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 187,641
+	End: 01/22/2022 23:01:10
+-------
+Start: 01/22/2022 23:10:23
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 462,797
+	End: 01/22/2022 23:14:05
+-------
+Start: 01/22/2022 23:23:12
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 465,75
+	End: 01/22/2022 23:26:58
+-------
+Start: 01/22/2022 23:32:04
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 187,938
+	End: 01/22/2022 23:35:12
+-------
+Start: 01/22/2022 23:40:17
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 224,859
+	End: 01/22/2022 23:44:02
+-------
+Start: 01/22/2022 23:53:07
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 439,516
+	End: 01/22/2022 23:56:26
+-------
+Start: 01/23/2022 00:01:34
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 247,125
+	End: 01/23/2022 00:05:41
+-------
+Start: 01/23/2022 00:10:55
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 231,5
+	End: 01/23/2022 00:14:47
+-------
+Start: 01/23/2022 00:19:54
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 210,344
+	End: 01/23/2022 00:23:24
+-------
+Start: 01/23/2022 00:32:32
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 340,344
+	End: 01/23/2022 00:34:12
+-------
+Start: 01/23/2022 00:39:19
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 228,531
+	End: 01/23/2022 00:43:08
+-------
+Start: 01/23/2022 00:48:15
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 187,781
+	End: 01/23/2022 00:51:23
+-------
+Start: 01/23/2022 01:00:31
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 463,343
+	End: 01/23/2022 01:04:14
+-------
+Start: 01/23/2022 01:13:22
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 1286,156
+	End: 01/23/2022 01:30:47
+-------
+Start: 01/23/2022 01:35:55
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 252,219
+	End: 01/23/2022 01:40:07
+-------
+Start: 01/23/2022 01:55:29
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 201,813
+	End: 01/23/2022 01:58:50
+-------
+Start: 01/23/2022 02:07:58
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 452,5
+	End: 01/23/2022 02:11:30
+-------
+Start: 01/23/2022 02:20:38
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:4
+	SL:0
+	res_profile:OK
+	Dtime: 410,938
+	End: 01/23/2022 02:23:28
+-------
+Start: 01/23/2022 02:28:36
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 264,438
+	End: 01/23/2022 02:33:00
+-------
+Start: 01/23/2022 02:42:08
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 425,063
+	End: 01/23/2022 02:45:12
+-------
+Start: 01/23/2022 02:54:19
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 445,859
+	End: 01/23/2022 02:57:44
+-------
+Start: 01/23/2022 03:02:50
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 261,813
+	End: 01/23/2022 03:07:12
+-------
+Start: 01/23/2022 03:12:19
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 211,422
+	End: 01/23/2022 03:15:50
+-------
+Start: 01/23/2022 03:24:55
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 461,75
+	End: 01/23/2022 03:28:36
+-------
+Start: 01/23/2022 03:33:43
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 210,11
+	End: 01/23/2022 03:37:13
+-------
+Start: 01/23/2022 03:42:19
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:4
+	SL:0
+	res_profile:OK
+	Dtime: 402,844
+	End: 01/23/2022 03:49:02
+-------
+Start: 01/23/2022 03:54:09
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 192,891
+	End: 01/23/2022 03:57:22
+-------
+Start: 01/23/2022 04:06:33
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:4
+	SL:0
+	res_profile:OK
+	Dtime: 559,89
+	End: 01/23/2022 04:11:52
+-------
+Start: 01/23/2022 04:21:00
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 472,703
+	End: 01/23/2022 04:24:52
+-------
+Start: 01/23/2022 04:33:59
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:2
+	res_profile:OK
+	Dtime: 1992,172
+	End: 01/23/2022 05:03:11
+-------
+Start: 01/23/2022 05:12:19
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 356,046
+	End: 01/23/2022 05:14:14
+-------
+Start: 01/23/2022 05:23:30
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 474,75
+	End: 01/23/2022 05:27:24
+-------
+Start: 01/23/2022 05:36:31
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 454,719
+	End: 01/23/2022 05:40:06
+-------
+Start: 01/23/2022 05:49:11
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 442,656
+	End: 01/23/2022 05:52:33
+-------
+Start: 01/23/2022 05:57:40
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 222,094
+	End: 01/23/2022 06:01:22
+-------
+Start: 01/23/2022 06:06:28
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 276,234
+	End: 01/23/2022 06:11:05
+-------
+Start: 01/23/2022 06:22:16
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 224,672
+	End: 01/23/2022 06:26:01
+-------
+Start: 01/23/2022 06:31:13
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 194,781
+	End: 01/23/2022 06:34:27
+-------
+Start: 01/23/2022 06:43:32
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:2
+	res_profile:OK
+	Dtime: 481,297
+	End: 01/23/2022 06:47:32
+-------
+Start: 01/23/2022 06:56:40
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 527,969
+	End: 01/23/2022 07:01:27
+-------
+Start: 01/23/2022 07:10:33
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 477,046
+	End: 01/23/2022 07:14:29
+-------
+Start: 01/23/2022 07:19:35
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 118,828
+	End: 01/23/2022 07:21:34
+-------
+Start: 01/23/2022 07:30:42
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 476,328
+	End: 01/23/2022 07:34:37
+-------
+Start: 01/23/2022 07:39:44
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 233,5
+	End: 01/23/2022 07:43:37
+-------
+Start: 01/23/2022 07:48:47
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 201,109
+	End: 01/23/2022 07:52:09
+-------
+Start: 01/23/2022 08:01:16
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 479,562
+	End: 01/23/2022 08:05:14
+-------
+Start: 01/23/2022 08:10:21
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 315,062
+	End: 01/23/2022 08:15:36
+-------
+Start: 01/23/2022 08:20:44
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:4
+	SL:0
+	res_profile:OK
+	Dtime: 228,407
+	End: 01/23/2022 08:24:32
+-------
+Start: 01/23/2022 08:29:39
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 188,093
+	End: 01/23/2022 08:32:47
+-------
+Start: 01/23/2022 08:37:54
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 224,781
+	End: 01/23/2022 08:41:38
+-------
+Start: 01/23/2022 08:46:45
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:4
+	SL:0
+	res_profile:OK
+	Dtime: 180,375
+	End: 01/23/2022 08:49:46
+-------
+Start: 01/23/2022 08:58:54
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 274,437
+	End: 01/23/2022 08:59:27
+-------
+Start: 01/23/2022 09:04:32
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 193,531
+	End: 01/23/2022 09:07:46
+-------
+Start: 01/23/2022 09:12:51
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 1821,203
+	End: 01/23/2022 09:43:12
+-------
+Start: 01/23/2022 09:48:20
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 110,531
+	End: 01/23/2022 09:50:10
+-------
+Start: 01/23/2022 09:55:23
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 86,625
+	End: 01/23/2022 09:56:49
+-------
+Start: 01/23/2022 10:02:03
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 204,422
+	End: 01/23/2022 10:05:27
+-------
+Start: 01/23/2022 10:10:32
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 218,843
+	End: 01/23/2022 10:14:11
+-------
+Start: 01/23/2022 10:19:21
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:2
+	res_profile:OK
+	Dtime: 245,922
+	End: 01/23/2022 10:23:27
+-------
+Start: 01/23/2022 10:28:33
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 248,078
+	End: 01/23/2022 10:32:41
+-------
+Start: 01/23/2022 10:37:53
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 224,875
+	End: 01/23/2022 10:41:38
+-------
+Start: 01/23/2022 10:46:43
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 216,297
+	End: 01/23/2022 10:50:19
+-------
+Start: 01/23/2022 10:55:25
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 964,187
+	End: 01/23/2022 11:11:29
+-------
+Start: 01/23/2022 11:16:37
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:4
+	SL:0
+	res_profile:OK
+	Dtime: 179,75
+	End: 01/23/2022 11:19:37
+-------
+Start: 01/23/2022 11:24:44
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 167,719
+	End: 01/23/2022 11:27:31
+-------
+Start: 01/23/2022 11:32:38
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 159,016
+	End: 01/23/2022 11:35:17
+-------
+Start: 01/23/2022 11:40:25
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:4
+	SL:0
+	res_profile:OK
+	Dtime: 221,203
+	End: 01/23/2022 11:44:06
+-------
+Start: 01/23/2022 11:53:22
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 499,844
+	End: 01/23/2022 11:57:41
+-------
+Start: 01/23/2022 12:06:48
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 416,11
+	End: 01/23/2022 12:09:44
+-------
+Start: 01/23/2022 12:14:51
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 188,891
+	End: 01/23/2022 12:17:59
+-------
+Start: 01/23/2022 12:23:07
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 49,75
+	End: 01/23/2022 12:23:56
+-------
+Start: 01/23/2022 12:29:02
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:2
+	res_profile:OK
+	Dtime: 263,343
+	End: 01/23/2022 12:33:26
+-------
+Start: 01/23/2022 12:38:32
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 1484,781
+	End: 01/23/2022 13:03:17
+-------
+Start: 01/23/2022 13:08:29
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 216,422
+	End: 01/23/2022 13:12:06
+-------
+Start: 01/23/2022 13:21:14
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 510,766
+	End: 01/23/2022 13:25:44
+-------
+Start: 01/23/2022 13:30:48
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 156,141
+	End: 01/23/2022 13:33:25
+-------
+Start: 01/23/2022 13:42:32
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 495,812
+	End: 01/23/2022 13:46:48
+-------
+Start: 01/23/2022 13:51:54
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:4
+	SL:0
+	res_profile:OK
+	Dtime: 268,859
+	End: 01/23/2022 13:56:23
+-------
+Start: 01/23/2022 14:05:37
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 420,937
+	End: 01/23/2022 14:08:37
+-------
+Start: 01/23/2022 14:17:49
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 474,328
+	End: 01/23/2022 14:21:43
+-------
+Start: 01/23/2022 14:26:57
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 219,031
+	End: 01/23/2022 14:30:36
+-------
+Start: 01/23/2022 14:35:42
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 230,218
+	End: 01/23/2022 14:39:33
+-------
+Start: 01/23/2022 14:44:39
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 232,063
+	End: 01/23/2022 14:48:31
+-------
+Start: 01/23/2022 14:53:37
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 243,593
+	End: 01/23/2022 14:57:41
+-------
+Start: 01/23/2022 15:06:48
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 529,39
+	End: 01/23/2022 15:11:37
+-------
+Start: 01/23/2022 15:16:44
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 80,937
+	End: 01/23/2022 15:18:05
+-------
+Start: 01/23/2022 15:23:10
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 268,719
+	End: 01/23/2022 15:27:38
+-------
+Start: 01/23/2022 15:32:46
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 236,093
+	End: 01/23/2022 15:36:42
+-------
+Start: 01/23/2022 15:41:50
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:2
+	res_profile:OK
+	Dtime: 227,797
+	End: 01/23/2022 15:45:38
+-------
+Start: 01/23/2022 15:54:53
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 447,25
+	End: 01/23/2022 15:58:20
+-------
+Start: 01/23/2022 16:03:34
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 269,875
+	End: 01/23/2022 16:08:04
+-------
+Start: 01/23/2022 16:17:11
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 469,953
+	End: 01/23/2022 16:21:00
+-------
+Start: 01/23/2022 16:30:09
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 406,328
+	End: 01/23/2022 16:32:54
+-------
+Start: 01/23/2022 16:42:08
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 1162,765
+	End: 01/23/2022 16:57:31
+-------
+Start: 01/23/2022 17:02:45
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:4
+	SL:0
+	res_profile:OK
+	Dtime: 241,078
+	End: 01/23/2022 17:06:46
+-------
+Start: 01/23/2022 17:11:53
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 261,516
+	End: 01/23/2022 17:16:14
+-------
+Start: 01/23/2022 17:21:21
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 201,188
+	End: 01/23/2022 17:24:42
+-------
+Start: 01/23/2022 17:29:55
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:4
+	SL:0
+	res_profile:OK
+	Dtime: 193,344
+	End: 01/23/2022 17:33:09
+-------
+Start: 01/23/2022 17:38:15
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 179,922
+	End: 01/23/2022 17:41:15
+-------
+Start: 01/23/2022 17:46:23
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 210,828
+	End: 01/23/2022 17:49:54
+-------
+Start: 01/23/2022 17:55:00
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 231,093
+	End: 01/23/2022 17:58:51
+-------
+Start: 01/23/2022 18:03:59
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 217,828
+	End: 01/23/2022 18:07:37
+-------
+Start: 01/23/2022 18:12:44
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 228,953
+	End: 01/23/2022 18:16:32
+-------
+Start: 01/23/2022 18:25:38
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 489,625
+	End: 01/23/2022 18:29:47
+-------
+Start: 01/23/2022 18:38:55
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 493,687
+	End: 01/23/2022 18:43:08
+-------
+Start: 01/23/2022 18:48:16
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 224,734
+	End: 01/23/2022 18:52:01
+-------
+Start: 01/23/2022 18:57:09
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 240,156
+	End: 01/23/2022 19:01:09
+-------
+Start: 01/23/2022 19:06:14
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 179,141
+	End: 01/23/2022 19:09:13
+-------
+Start: 01/23/2022 19:14:25
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 213,844
+	End: 01/23/2022 19:17:59
+-------
+Start: 01/23/2022 19:23:05
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 235,562
+	End: 01/23/2022 19:27:01
+-------
+Start: 01/23/2022 19:32:16
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 263,141
+	End: 01/23/2022 19:36:39
+-------
+Start: 01/23/2022 19:45:46
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 460,141
+	End: 01/23/2022 19:49:26
+-------
+Start: 01/23/2022 19:58:35
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 557,188
+	End: 01/23/2022 20:03:51
+-------
+Start: 01/23/2022 20:09:01
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 215,625
+	End: 01/23/2022 20:12:37
+-------
+Start: 01/23/2022 20:17:42
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 220,843
+	End: 01/23/2022 20:21:23
+-------
+Start: 01/23/2022 20:26:37
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 333,718
+	End: 01/23/2022 20:32:11
+-------
+Start: 01/23/2022 20:37:18
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 227,25
+	End: 01/23/2022 20:41:05
+-------
+Start: 01/23/2022 20:46:13
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 224
+	End: 01/23/2022 20:49:57
+-------
+Start: 01/23/2022 20:55:04
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 220
+	End: 01/23/2022 20:58:44
+-------
+Start: 01/23/2022 21:03:49
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 224,203
+	End: 01/23/2022 21:07:33
+-------
+Start: 01/23/2022 21:12:40
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:5
+	SL:0
+	res_profile:OK
+	Dtime: 217,891
+	End: 01/23/2022 21:16:17
+-------
+Start: 01/23/2022 21:21:24
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 267,843
+	End: 01/23/2022 21:25:52
+-------
+Start: 01/23/2022 21:30:58
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 92,547
+	End: 01/23/2022 21:32:31
+-------
+Start: 01/23/2022 21:37:35
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 222,172
+	End: 01/23/2022 21:41:17
+-------
+Start: 01/23/2022 21:52:11
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:2
+	res_profile:OK
+	Dtime: 231,735
+	End: 01/23/2022 21:56:03
+-------
+Start: 01/23/2022 22:01:10
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:4
+	SL:0
+	res_profile:OK
+	Dtime: 100,235
+	End: 01/23/2022 22:02:50
+-------
+Start: 01/23/2022 22:11:57
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 459,204
+	End: 01/23/2022 22:15:35
+-------
+Start: 01/23/2022 22:24:46
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 465,344
+	End: 01/23/2022 22:28:31
+-------
+Start: 01/23/2022 22:33:45
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 180,219
+	End: 01/23/2022 22:36:45
+-------
+Start: 01/23/2022 22:41:52
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 367,265
+	End: 01/23/2022 22:47:59
+-------
+Start: 01/23/2022 22:53:07
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:4
+	SL:0
+	res_profile:OK
+	Dtime: 243,906
+	End: 01/23/2022 22:57:11
+-------
+Start: 01/23/2022 23:02:18
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 197,219
+	End: 01/23/2022 23:05:35
+-------
+Start: 01/23/2022 23:14:42
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 443,015
+	End: 01/23/2022 23:18:05
+-------
+Start: 01/23/2022 23:23:12
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 222,859
+	End: 01/23/2022 23:26:54
+-------
+Start: 01/23/2022 23:32:01
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 219,235
+	End: 01/23/2022 23:35:41
+-------
+Start: 01/23/2022 23:40:55
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 332,328
+	End: 01/23/2022 23:46:27
+-------
+Start: 01/23/2022 23:51:34
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 246,422
+	End: 01/23/2022 23:55:40
+-------
+Start: 01/24/2022 00:04:49
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 286,719
+	End: 01/24/2022 00:05:35
+-------
+Start: 01/24/2022 00:14:42
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 446,937
+	End: 01/24/2022 00:18:08
+-------
+Start: 01/24/2022 00:37:25
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 575,75
+	End: 01/24/2022 00:43:01
+-------
+Start: 01/24/2022 00:52:15
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 396,141
+	End: 01/24/2022 00:54:51
+-------
+Start: 01/24/2022 01:03:58
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:2
+	res_profile:OK
+	Dtime: 462,797
+	End: 01/24/2022 01:07:40
+-------
+Start: 01/24/2022 01:26:24
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 461,781
+	End: 01/24/2022 01:30:06
+-------
+Start: 01/24/2022 01:39:14
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 297,609
+	End: 01/24/2022 01:40:11
+-------
+Start: 01/24/2022 01:49:19
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:4
+	SL:0
+	res_profile:OK
+	Dtime: 437,843
+	End: 01/24/2022 01:52:36
+-------
+Start: 01/24/2022 02:01:44
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 368,281
+	End: 01/24/2022 02:03:51
+-------
+Start: 01/24/2022 02:13:06
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 449,657
+	End: 01/24/2022 02:16:35
+-------
+Start: 01/24/2022 02:25:47
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 475,468
+	End: 01/24/2022 02:29:42
+-------
+Start: 01/24/2022 02:38:49
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 433,297
+	End: 01/24/2022 02:42:02
+-------
+Start: 01/24/2022 02:51:10
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 468,141
+	End: 01/24/2022 02:54:58
+-------
+Start: 01/24/2022 03:00:05
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 213,797
+	End: 01/24/2022 03:03:39
+-------
+Start: 01/24/2022 03:22:47
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 288,625
+	End: 01/24/2022 03:23:35
+-------
+Start: 01/24/2022 03:28:41
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 230,469
+	End: 01/24/2022 03:32:32
+-------
+Start: 01/24/2022 03:37:45
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:4
+	SL:0
+	res_profile:OK
+	Dtime: 304,828
+	End: 01/24/2022 03:42:50
+-------
+Start: 01/24/2022 03:52:00
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 339,985
+	End: 01/24/2022 03:53:39
+-------
+Start: 01/24/2022 03:58:47
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 226,859
+	End: 01/24/2022 04:02:33
+-------
+Start: 01/24/2022 04:11:40
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:5
+	SL:0
+	res_profile:OK
+	Dtime: 463,25
+	End: 01/24/2022 04:15:23
+-------
+Start: 01/24/2022 04:24:32
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 487,719
+	End: 01/24/2022 04:28:39
+-------
+Start: 01/24/2022 04:37:47
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 485,062
+	End: 01/24/2022 04:41:51
+-------
+Start: 01/24/2022 04:46:58
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 77,719
+	End: 01/24/2022 04:48:15
+-------
+Start: 01/24/2022 04:53:21
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 220,75
+	End: 01/24/2022 04:57:01
+-------
+Start: 01/24/2022 05:06:07
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 642,625
+	End: 01/24/2022 05:12:49
+-------
+Start: 01/24/2022 05:17:57
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 244,61
+	End: 01/24/2022 05:22:01
+-------
+Start: 01/24/2022 05:31:09
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 485,797
+	End: 01/24/2022 05:35:14
+-------
+Start: 01/24/2022 05:44:22
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 460,125
+	End: 01/24/2022 05:48:02
+-------
+Start: 01/24/2022 05:57:10
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:5
+	SL:0
+	res_profile:OK
+	Dtime: 513,453
+	End: 01/24/2022 06:01:42
+-------
+Start: 01/24/2022 06:10:51
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 359,985
+	End: 01/24/2022 06:12:50
+-------
+Start: 01/24/2022 06:18:04
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 350,812
+	End: 01/24/2022 06:23:55
+-------
+Start: 01/24/2022 06:29:01
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0
+	res_profile:OK
+	Dtime: 216,125
+	End: 01/24/2022 06:32:37
+-------
+Start: 01/24/2022 06:37:45
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 239,343
+	End: 01/24/2022 06:41:44
+-------
+Start: 01/24/2022 06:50:53
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 477,265
+	End: 01/24/2022 06:54:49
+-------
+Start: 01/24/2022 07:04:04
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 484,813
+	End: 01/24/2022 07:08:08
+-------
+Start: 01/24/2022 07:13:15
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 277,907
+	End: 01/24/2022 07:17:53
+-------
+Start: 01/24/2022 07:27:01
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:2
+	res_profile:OK
+	Dtime: 1202,266
+	End: 01/24/2022 07:43:03
+-------
+Start: 01/24/2022 07:48:10
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 1026,234
+	End: 01/24/2022 08:05:16
+-------
+Start: 01/24/2022 08:10:31
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 430,328
+	End: 01/24/2022 08:17:41
+-------
+Start: 01/24/2022 08:22:47
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:2
+	res_profile:OK
+	Dtime: 217,172
+	End: 01/24/2022 08:26:24
+-------
+Start: 01/24/2022 08:37:17
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:4
+	SL:0
+	res_profile:OK
+	Dtime: 269,766
+	End: 01/24/2022 08:41:46
+-------
+Start: 01/24/2022 08:46:54
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 259,516
+	End: 01/24/2022 08:51:13
+-------
+Start: 01/24/2022 09:00:21
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:4
+	SL:0
+	res_profile:OK
+	Dtime: 461,531
+	End: 01/24/2022 09:04:02
+-------
+Start: 01/24/2022 09:09:15
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 251,422
+	End: 01/24/2022 09:13:26
+-------
+Start: 01/24/2022 09:22:41
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 462,5
+	End: 01/24/2022 09:26:23
+-------
+Start: 01/24/2022 09:31:30
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 229,765
+	End: 01/24/2022 09:35:19
+-------
+Start: 01/24/2022 09:40:27
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 223,875
+	End: 01/24/2022 09:44:11
+-------
+Start: 01/24/2022 09:49:18
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	res_profile:OK
+	Dtime: 49,313
+	End: 01/24/2022 09:50:07
+-------
+Start: 01/24/2022 09:59:14
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0
+	res_profile:OK
+	Dtime: 417,328
+	End: 01/24/2022 10:02:11
+-------
+Start: 01/24/2022 10:11:18
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 480,781
+	End: 01/24/2022 10:15:18
+-------
+Start: 01/24/2022 10:20:24
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:5
+	SL:0
+	res_profile:OK
+	Dtime: 221,578
+	End: 01/24/2022 10:24:06
+-------
+Start: 01/24/2022 10:29:13
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 266,421
+	End: 01/24/2022 10:33:39
+-------
+Start: 01/24/2022 10:38:47
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 283,64
+	End: 01/24/2022 10:43:30
+-------
+Start: 01/24/2022 10:48:38
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 220,266
+	End: 01/24/2022 10:52:19
+-------
+Start: 01/24/2022 10:57:24
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	res_profile:OK
+	Dtime: 213,078
+	End: 01/24/2022 11:00:57
+-------
+Start: 01/24/2022 11:10:03
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0
+	res_profile:OK
+	Dtime: 470,765
+	End: 01/24/2022 11:13:52
+-------
+Start: 01/24/2022 11:22:59
+	Project Name:G PF norm m3.zp
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	res_profile:OK
+	Dtime: 442,484
+	End: 01/24/2022 11:26:21
+-------
+Start: 01/24/2022 14:29:25
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0a
+	WAY:SPEC
+70,437	70,437	47,859			александр эйсмонт евротерминал	chp.com.ua	g	6	NO		0						end	
+	70,437	70,437	47,859			александр эйсмонт евротерминал	chp.com.ua	g	6	NO		0						end	
+	70,437	70,437	47,859			александр эйсмонт евротерминал	chp.com.ua	g	6	NO		0						end	
+	res_profile:OK
+	Dtime: 536,61
+	End: 01/24/2022 14:38:21
+-------
+Start: 01/24/2022 19:23:30
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:2a
+	WAY:SPEC
+	48,656	48,656	43,297			александр эйсмонт евротерминал	chp.com.ua	g	6	NO		0						end	
+	res_profile:OK
+	Dtime: 126,687
+	End: 01/24/2022 19:25:36
+-------
+Start: 01/24/2022 19:27:59
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:2a
+	WAY:SPEC
+	42,969	42,969	143,234			александр эйсмонт евротерминал	chp.com.ua	g	6	NO		0						end	
+	res_profile:OK
+	Dtime: 201,016
+	End: 01/24/2022 19:31:20
+-------
+Start: 01/24/2022 19:38:44
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:4
+	SL:0a
+	WAY:SPEC
+	32,484	32,484	167,906			александр эйсмонт евротерминал	chp.com.ua	g	6	NO		0						end	
+	res_profile:OK
+	Dtime: 219,062
+	End: 01/24/2022 19:42:23
+-------
+Start: 01/24/2022 20:02:46
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:3
+	SL:0a
+	WAY:SPEC
+	44,828	44,828	163,61			александр эйсмонт евротерминал	chp.com.ua	g	6	NO		0						end	
+	res_profile:OK
+	Dtime: 223,922
+	End: 01/24/2022 20:06:30
+-------
+Start: 01/24/2022 20:11:37
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:4
+	SL:0a
+	WAY:SPEC
+	44,594	44,594	236,172			александр эйсмонт евротерминал	chp.com.ua	g	6	NO		0						end	
+	res_profile:OK
+	Dtime: 305,282
+	End: 01/24/2022 20:16:42
+-------
+Start: 01/24/2022 20:21:52
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	27,593	27,593	161,719			александр эйсмонт евротерминал	chp.com.ua	g	6	NO		0						end	
+	res_profile:OK
+	Dtime: 204,625
+	End: 01/24/2022 20:25:16
+-------
+Start: 01/24/2022 21:05:45
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0a
+	WAY:SPEC
+	43,219	43,219	168,359			александр эйсмонт евротерминал	chp.com.ua	g	6	NO		0						end	
+	res_profile:OK
+	Dtime: 228,047
+	End: 01/24/2022 21:09:33
+-------
+Start: 01/24/2022 21:32:54
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	39,813	39,813	143,5			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 193,516
+	End: 01/24/2022 21:36:07
+-------
+Start: 01/24/2022 21:41:11
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:4
+	SL:0a
+	WAY:SPEC
+	38,14	38,14	159,547			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 212,828
+	End: 01/24/2022 21:44:44
+-------
+Start: 01/24/2022 21:49:51
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:4
+	SL:0a
+	WAY:SPEC
+	38,875	38,875	171,313			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 225,969
+	End: 01/24/2022 21:53:37
+-------
+Start: 01/24/2022 21:58:44
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:1
+	SL:0a
+	WAY:SPEC
+	50,687	50,687	163,5			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 230,844
+	End: 01/24/2022 22:02:35
+-------
+Start: 01/24/2022 22:43:57
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:4
+	SL:0a
+	WAY:SPEC
+	40,719	40,719	206,203			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 262,125
+	End: 01/24/2022 22:48:19
+-------
+Start: 01/24/2022 23:29:53
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:5
+	SL:0a
+	WAY:SPEC
+	38,156	38,156	171			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 237,172
+	End: 01/24/2022 23:33:50
+-------
+Start: 01/25/2022 06:49:07
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	39,375	39,375	50,516			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 103,766
+	End: 01/25/2022 06:50:51
+-------
+Start: 01/25/2022 06:55:55
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1a
+	WAY:SPEC
+	50,281	50,281	213,016			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 288
+	End: 01/25/2022 07:00:43
+-------
+Start: 01/25/2022 07:05:50
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0a
+	WAY:SPEC
+	36,422	36,422	169,125			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 227,297
+	End: 01/25/2022 07:09:37
+-------
+Start: 01/25/2022 07:32:36
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1a
+	WAY:SPEC
+	37,89	37,89	169,969			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 230,219
+	End: 01/25/2022 07:36:27
+-------
+Start: 01/25/2022 07:57:24
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:3a
+	WAY:SPEC
+	34,781	34,781	151,625			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 201,359
+	End: 01/25/2022 08:00:45
+-------
+Start: 01/25/2022 08:05:59
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:2a
+	WAY:SPEC
+	55,062	55,062	167,485			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 235,563
+	End: 01/25/2022 08:09:54
+-------
+Start: 01/25/2022 08:33:07
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	32,735	32,735	175,437			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 226,656
+	End: 01/25/2022 08:36:54
+-------
+Start: 01/25/2022 08:51:55
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1a
+	WAY:SPEC
+	40,875	40,875	174,297			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 229,985
+	End: 01/25/2022 08:55:45
+-------
+Start: 01/25/2022 09:10:02
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0a
+	WAY:SPEC
+	44,188	44,188	187,109			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 254,859
+	End: 01/25/2022 09:14:17
+-------
+Start: 01/25/2022 09:24:57
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:2a
+	WAY:SPEC
+	43,453	43,453	179,422			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 236,031
+	End: 01/25/2022 09:28:53
+-------
+Start: 01/25/2022 09:49:04
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0a
+	WAY:SPEC
+	40,516	40,516	172,516			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 228,672
+	End: 01/25/2022 09:52:53
+-------
+Start: 01/25/2022 10:48:40
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0a
+	WAY:SPEC
+	42,015	42,015	120,75			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 181,109
+	End: 01/25/2022 10:51:41
+-------
+Start: 01/25/2022 10:56:48
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:6
+	SL:0a
+	WAY:SPEC
+	42,079	42,079	167,25			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 224,516
+	End: 01/25/2022 11:00:32
+-------
+Start: 01/25/2022 11:23:40
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:6
+	SL:0a
+	WAY:SPEC
+	33,796	33,796	147,375			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 196,687
+	End: 01/25/2022 11:26:57
+-------
+Start: 01/25/2022 11:32:04
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:6
+	SL:0a
+	WAY:SPEC
+	31,109	31,109	165,344			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 212,156
+	End: 01/25/2022 11:35:36
+-------
+Start: 01/25/2022 11:49:54
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:0
+	SL:0a
+	WAY:SPEC
+	44,594	44,594	175,953			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 235,641
+	End: 01/25/2022 11:53:50
+-------
+Start: 01/25/2022 12:08:05
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1a
+	WAY:SPEC
+	46,36	46,36	230,625			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 289,375
+	End: 01/25/2022 12:12:54
+-------
+Start: 01/25/2022 13:20:26
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0a
+	WAY:SPEC
+	50,047	50,047	203,125			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 275,906
+	End: 01/25/2022 13:25:02
+-------
+Start: 01/25/2022 13:35:48
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:6
+	SL:0a
+	WAY:SPEC
+	40,797	40,797	182,281			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 238,328
+	End: 01/25/2022 13:39:47
+-------
