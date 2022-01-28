@@ -3662,3 +3662,495 @@ Start: 01/25/2022 13:35:48
 	Dtime: 238,328
 	End: 01/25/2022 13:39:47
 -------
+Start: 01/25/2022 18:28:14
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	117,234	117,234	358,047			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 2769,172
+	End: 01/25/2022 19:14:24
+-------
+Start: 01/25/2022 19:55:01
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	34,328	34,328	143,968			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 191,125
+	End: 01/25/2022 19:58:12
+-------
+Start: 01/25/2022 20:12:10
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	35,203	35,203	125,625			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 174,719
+	End: 01/25/2022 20:15:05
+-------
+Start: 01/25/2022 20:20:09
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	31,578	31,578	131,922			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 176,563
+	End: 01/25/2022 20:23:06
+-------
+Start: 01/25/2022 21:02:19
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	37,984	37,984	140,969			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 194,907
+	End: 01/25/2022 21:05:34
+-------
+Start: 01/25/2022 21:19:42
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	46,579	46,579	142,687			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 206,641
+	End: 01/25/2022 21:23:09
+-------
+Start: 01/25/2022 21:50:38
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	38,75	38,75	107,61			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 159,625
+	End: 01/25/2022 21:53:17
+-------
+Start: 01/25/2022 22:07:33
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	37,89	37,89	126,797			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 180,328
+	End: 01/25/2022 22:10:33
+-------
+Start: 01/25/2022 22:23:14
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	39,438	39,438	129,859			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 190,438
+	End: 01/25/2022 22:26:25
+-------
+Start: 01/25/2022 22:31:29
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	53,188	53,188	163,844			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 229,719
+	End: 01/25/2022 22:35:19
+-------
+Start: 01/25/2022 22:31:50
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	31,656	31,656	197,078			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 245,641
+	End: 01/25/2022 22:35:56
+-------
+Start: 01/25/2022 22:59:15
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	38,781	38,781	102,594			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 157,609
+	End: 01/25/2022 23:01:52
+-------
+Start: 01/25/2022 23:18:37
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	35,859	35,859	170,125			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 222,015
+	End: 01/25/2022 23:22:19
+-------
+Start: 01/26/2022 05:01:36
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	32,75	32,75	53,672			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 104,094
+	End: 01/26/2022 05:03:20
+-------
+Start: 01/26/2022 06:03:03
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	41,953	41,953	147,5			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 206,5
+	End: 01/26/2022 06:06:30
+-------
+Start: 01/26/2022 06:07:36
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	36,265	36,265	168,563			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 222,125
+	End: 01/26/2022 06:11:18
+-------
+Start: 01/26/2022 06:29:47
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	40,563	40,563	168,078			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 224,75
+	End: 01/26/2022 06:33:31
+-------
+Start: 01/26/2022 06:54:08
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	40,328	40,328	167,969			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 220,422
+	End: 01/26/2022 06:57:48
+-------
+Start: 01/26/2022 07:08:49
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	65,906	65,906	218,953			александр эйсмонт евротерминал	chp.com.ua	g	12	NO		0						end	
+	res_profile:OK
+	Dtime: 303,36
+	End: 01/26/2022 07:13:53
+-------
+Start: 01/26/2022 07:11:56
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	31,359	31,359	142,828			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 192,75
+	End: 01/26/2022 07:15:08
+-------
+Start: 01/26/2022 07:36:42
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	31,672	31,672	164,438			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 214,406
+	End: 01/26/2022 07:40:16
+-------
+Start: 01/26/2022 07:42:56
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	33,656	33,656	118,719			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 162,906
+	End: 01/26/2022 07:45:39
+-------
+Start: 01/26/2022 07:45:21
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	50,578	50,578	160,344			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 229,031
+	End: 01/26/2022 07:49:10
+-------
+Start: 01/26/2022 07:59:54
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	41,609	41,609	104,485			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 165,282
+	End: 01/26/2022 08:02:39
+-------
+Start: 01/26/2022 08:03:25
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	32,828	32,828	162,875			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 211,39
+	End: 01/26/2022 08:06:56
+-------
+Start: 01/26/2022 08:20:28
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	45,578	45,578	139,906			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 198,031
+	End: 01/26/2022 08:23:46
+-------
+Start: 01/26/2022 08:28:51
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	36,953	36,953	130,234			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 188,406
+	End: 01/26/2022 08:32:00
+-------
+Start: 01/26/2022 08:33:28
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	35,969	35,969	103,5			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 152,859
+	End: 01/26/2022 08:36:01
+-------
+Start: 01/26/2022 08:48:31
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	42,281	42,281	160,047			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 216,625
+	End: 01/26/2022 08:52:08
+-------
+Start: 01/26/2022 08:57:12
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	42,032	42,032	112,047			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 163,813
+	End: 01/26/2022 08:59:56
+-------
+Start: 01/26/2022 09:04:16
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	39,047	39,047	41,156			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 92,188
+	End: 01/26/2022 09:05:48
+-------
+Start: 01/26/2022 09:05:07
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	38,25	38,25	207,875			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 256,015
+	End: 01/26/2022 09:09:23
+-------
+Start: 01/26/2022 09:19:57
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	51,531	51,531	128,906			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 199,125
+	End: 01/26/2022 09:23:16
+-------
+Start: 01/26/2022 09:35:51
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	35,969	35,969	110,625			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 164,094
+	End: 01/26/2022 09:38:35
+-------
+Start: 01/26/2022 09:52:44
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	45,437	45,437	138,157			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 199,515
+	End: 01/26/2022 09:56:03
+-------
+Start: 01/26/2022 10:01:18
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	36,484	36,484	110,203			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 159,328
+	End: 01/26/2022 10:03:57
+-------
+Start: 01/26/2022 10:18:12
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	39,078	39,078	129,813			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 185,234
+	End: 01/26/2022 10:21:17
+-------
+Start: 01/26/2022 10:34:44
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	67,719	67,719	141,625			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 218,844
+	End: 01/26/2022 10:38:23
+-------
+Start: 01/26/2022 10:35:40
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	40,562	40,562	139,953			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 196,687
+	End: 01/26/2022 10:38:56
+-------
+Start: 01/26/2022 10:53:17
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	37,453	37,453	165,719			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 219
+	End: 01/26/2022 10:56:56
+-------
+Start: 01/26/2022 11:02:01
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	WAY:SPEC
+	37,859	37,859	151,063			александр эйсмонт евротерминал	chp.com.ua	g	7	NO		0						end	
+	res_profile:OK
+	Dtime: 209,641
+	End: 01/26/2022 11:05:31
+-------

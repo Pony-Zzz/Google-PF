@@ -1,0 +1,335 @@
+Start: 01/27/2022 00:13:16
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	SL WAY
+	target:	chp.com.ua
+	USE key3	chp.com.ua
+		кликаю
+		попал на http://chp.com.ua/biznes-i-uslugi/item/77200-evroterminal-klyuchevoy-igrok-na-rynke-logistiki-aleksandr-eysmont
+		тусим на сайте
+		конец
+	good end
+	res_profile:OK
+	Dtime: 210,984
+	End: 01/27/2022 00:16:47
+-------
+Start: 01/27/2022 00:40:00
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	Фоновый трафик
+		вбиваю запрос
+		не кликал
+	good end
+	res_profile:OK
+	Dtime: 38,297
+	End: 01/27/2022 00:40:38
+-------
+Start: 01/27/2022 00:45:43
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	WAY:SPEC
+		кликаю в цель поз№6 цель chp.com.ua
+	good end
+	res_profile:OK
+	Dtime: 202,141
+	End: 01/27/2022 00:49:06
+-------
+Start: 01/27/2022 02:34:20
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	WAY:SPEC
+		кликаю в цель поз№6 цель chp.com.ua
+	good end
+	res_profile:OK
+	Dtime: 168,109
+	End: 01/27/2022 02:37:09
+-------
+Start: 01/27/2022 02:42:13
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	WAY:SPEC
+		кликаю в цель поз№6 цель chp.com.ua
+	good end
+	res_profile:OK
+	Dtime: 189,469
+	End: 01/27/2022 02:45:22
+-------
+Start: 01/27/2022 02:59:32
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	WAY:SPEC
+		кликаю в цель поз№6 цель chp.com.ua
+	good end
+	res_profile:OK
+	Dtime: 226,281
+	End: 01/27/2022 03:03:18
+-------
+Start: 01/27/2022 04:02:42
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	SL WAY
+	target:	chp.com.ua
+	USE key3	chp.com.ua
+		кликаю
+		попал на https://www.google.com/search?q=александр+эйсмонт+евротерминал+chp.com.ua&source=hp&ei=U_3xYbTMCubd7_UPvpyDqAE&iflsig=ALs-wAMAAAAAYfILY1aN7n6cHskmLb4_2aWD_do_y-Qy&ved=0ahUKEwj0wbm969D1AhXm7rsIHT7OABUQ4dUDCAg&uact=5&oq=александр+эйсмонт+евротерминал+chp.com.ua&gs_lcp=Cgdnd3Mtd2l6EAMyCQghEAoQoAEQKjoLCAAQgAQQsQMQgwE6DgguEIAEELEDEMcBENEDOggILhCxAxCDAToOCC4QgAQQsQMQxwEQowI6EQguEIAEELEDEIMBEMcBEKMCOgsILhCABBDHARCjAjoFCAAQgAQ6CAgAEIAEELEDOggILhCABBCxAzoFCC4QgAQ6CwguEIAEELEDEIMBOgsILhCABBDHARCvAToOCC4QgAQQsQMQxwEQrwE6BggAEBYQHjoFCCEQoAE6BQgAEM0COgcIIRAKEKABUIwEWJBJYLJKaAFwAHgBgAGIA4gBmECSAQkwLjIyLjE3LjGYAQCgAQGwAQA&sclient=gws-wiz
+		тусим на сайте
+		конец
+	good end
+	res_profile:OK
+	Dtime: 159,297
+	End: 01/27/2022 04:05:21
+-------
+Start: 01/27/2022 04:10:28
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	WAY:SPEC
+		кликаю в цель поз№6 цель chp.com.ua
+	good end
+	res_profile:OK
+	Dtime: 187,265
+	End: 01/27/2022 04:13:35
+-------
+Start: 01/27/2022 04:36:53
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0a
+	Фоновый трафик
+		вбиваю запрос
+		кликнул в 1
+		тусим на сайте www.epravda.com.ua
+	good end
+	res_profile:OK
+	Dtime: 187,703
+	End: 01/27/2022 04:40:01
+-------
+Start: 01/27/2022 05:21:38
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	WAY:SPEC
+		кликаю в цель поз№6 цель chp.com.ua
+	good end
+	res_profile:OK
+	Dtime: 215,297
+	End: 01/27/2022 05:25:13
+-------
+Start: 01/27/2022 13:38:49
+	Project Name:G PF norm m13.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	WAY:SPEC
+		кликаю в цель поз№6 цель chp.com.ua
+	good end
+	res_profile:OK
+	Dtime: 176,984
+	End: 01/27/2022 13:41:46
+-------
+Start: 01/27/2022 13:52:03
+	Project Name:G PF norm m13.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0a
+	Фоновый трафик
+		вбиваю запрос
+		кликнул в 1
+		тусим на сайте www.google.com
+	good end
+	res_profile:OK
+	Dtime: 159,437
+	End: 01/27/2022 13:54:42
+-------
+Start: 01/27/2022 13:56:43
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:NO
+	SL:0
+	WAY:SPEC
+		кликаю в цель поз№6 цель chp.com.ua
+	good end
+	res_profile:OK
+	Dtime: 179,75
+	End: 01/27/2022 13:59:43
+-------
+Start: 01/27/2022 14:04:48
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	WAY:SPEC
+		кликаю в цель поз№6 цель chp.com.ua
+	good end
+	res_profile:OK
+	Dtime: 166,296
+	End: 01/27/2022 14:07:34
+-------
+Start: 01/27/2022 14:11:34
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:Павел Барбул
+	L:NO
+	SL:0a
+	Фоновый трафик
+		вбиваю запрос
+		next page
+		кликнул в 13
+		тусим на сайте ukrrudprom.com
+	good end
+	res_profile:OK
+	Dtime: 222,312
+	End: 01/27/2022 14:15:16
+-------
+Start: 01/27/2022 14:12:45
+	Project Name:G PF norm m13.zp
+	время+	
+	keywork:Павел Барбул
+	L:NO
+	SL:0
+	WAY:SPEC
+		кликаю в цель поз№5 цель narodna-pravda.ua
+	good end
+	res_profile:OK
+	Dtime: 183,422
+	End: 01/27/2022 14:15:49
+-------
+Start: 01/27/2022 14:16:26
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	SL WAY
+	target:	chp.com.ua
+	USE key3	chp
+		кликаю
+		не перещол на сайт, https://www.google.com/search?q=александр+эйсмонт+евротерминал+chp&source=hp&ei=MY3yYf6sI-aNlwSg-r4w&iflsig=AHkkrS4AAAAAYfKbQWZTMmdw988osVesgm8fGMWxxWGD&ved=0ahUKEwi-icfX9NH1AhXmxoUKHSC9DwYQ4dUDCAg&uact=5&oq=александр+эйсмонт+евротерминал+chp&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEM0CMgUIABDNAjoFCC4QgAQ6CAgAEIAEELEDOggILhCABBCxAzoLCC4QgAQQxwEQrwE6CwguEIAEELEDEIMBOgUIABCABDoICAAQsQMQgwE6BggAEBYQHjoFCCEQoAFQqQFY0zFgizRoAHAAeAGAAe4EiAGtTJIBDTAuMS4xMi4xMy4zLjGYAQCgAQE&sclient=gws-wiz, пробую кликнуть еще
+		кликаю
+		не перещол на сайт, https://www.google.com/search?q=александр+эйсмонт+евротерминал+chp&source=hp&ei=MY3yYf6sI-aNlwSg-r4w&iflsig=AHkkrS4AAAAAYfKbQWZTMmdw988osVesgm8fGMWxxWGD&ved=0ahUKEwi-icfX9NH1AhXmxoUKHSC9DwYQ4dUDCAg&uact=5&oq=александр+эйсмонт+евротерминал+chp&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEM0CMgUIABDNAjoFCC4QgAQ6CAgAEIAEELEDOggILhCABBCxAzoLCC4QgAQQxwEQrwE6CwguEIAEELEDEIMBOgUIABCABDoICAAQsQMQgwE6BggAEBYQHjoFCCEQoAFQqQFY0zFgizRoAHAAeAGAAe4EiAGtTJIBDTAuMS4xMi4xMy4zLjGYAQCgAQE&sclient=gws-wiz, пробую кликнуть еще
+		кликаю
+		попал на http://chp.com.ua/biznes-i-uslugi/item/77200-evroterminal-klyuchevoy-igrok-na-rynke-logistiki-aleksandr-eysmont
+		тусим на сайте
+		конец
+	good end
+	res_profile:OK
+	Dtime: 293,594
+	End: 01/27/2022 14:21:20
+-------
+Start: 01/27/2022 14:19:27
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:Павел Барбул
+	L:NO
+	SL:0
+	WAY:SPEC
+		кликаю в цель поз№5 цель kievvlast.com.ua
+	good end
+	res_profile:OK
+	Dtime: 239,531
+	End: 01/27/2022 14:23:27
+-------
+Start: 01/27/2022 14:20:01
+	Project Name:G PF norm m13.zp
+	время+	
+	keywork:Павел Барбул
+	L:2
+	SL:0
+	WAY:SPEC
+		кликаю в цель поз№8 цель interfax.com.ua
+	good end
+	res_profile:OK
+	Dtime: 245,64
+	End: 01/27/2022 14:24:06
+-------
+Start: 01/27/2022 14:22:53
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:Павел Барбул
+	L:4
+	SL:0a
+	Фоновый трафик
+		вбиваю запрос
+		кликнул в 1
+		тусим на сайте uk.wikipedia.org
+	good end
+	res_profile:OK
+	Dtime: 236,86
+	End: 01/27/2022 14:26:50
+-------
+Start: 01/27/2022 14:27:38
+	Project Name:G PF norm m7.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	SL WAY
+	target:	chp.com.ua
+	USE key3	chp.com.ua
+		кликаю
+		попал на https://www.google.com/search?q=александр+эйсмонт+евротерминал+chp.com.ua&source=hp&ei=z4_yYYPnKYqelwTd_bn4Cw&iflsig=AHkkrS4AAAAAYfKd38CJh6mqLSnr_TEt7F6cNzdxr_Qk&ved=0ahUKEwjDiouX99H1AhUKz4UKHd1-Dr8Q4dUDCAc&uact=5&oq=александр+эйсмонт+евротерминал+chp.com.ua&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEM0CMgUIABDNAjoICC4QsQMQgwE6CwgAEIAEELEDEIMBOg4ILhCABBCxAxDHARDRAzoOCC4QgAQQsQMQxwEQowI6CwguEIAEEMcBEKMCOgUIABCABDoICAAQgAQQsQM6CAguEIAEELEDOgUILhCABDoLCC4QgAQQxwEQrwE6CwguEIAEELEDEIMBOggIABCxAxCDAToGCAAQFhAeOgUIIRCgAToJCCEQChCgARAqOgcIIRAKEKABUJ0EWOFHYMVJaAFwAHgBgAH0AogBmj-SAQkwLjI1LjE1LjGYAQCgAQGwAQA&sclient=gws-wiz
+		тусим на сайте
+		конец
+	good end
+	res_profile:OK
+	Dtime: 161,235
+	End: 01/27/2022 14:30:19
+-------
+Start: 01/27/2022 14:26:59
+	Project Name:G PF norm m3.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:2
+	SL:0
+	WAY:SPEC
+		кликаю в цель поз№6 цель chp.com.ua
+	good end
+	res_profile:OK
+	Dtime: 224,719
+	End: 01/27/2022 14:30:44
+-------
+Start: 01/27/2022 20:59:36
+	Project Name:G PF norm m13.zp
+	время+	
+	keywork:александр эйсмонт евротерминал
+	L:
+	SL:1
+	SL WAY
+	target:	chp.com.ua
+	USE key3	на рынке логистики
+		попал на https://news.liga.net/all/pr/aleksandr-eysmont-o-trudnostyah-izmeneniyah-i-buduschih-trendah-v-logistike
+		тусим на сайте
+	bad end
+Start: 01/27/2022 21:00:42
+	Project Name:G PF norm m13.zp
+	время-	

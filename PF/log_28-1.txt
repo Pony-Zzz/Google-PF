@@ -1,0 +1,32 @@
+Start: 01/28/2022 12:15:34
+	Project Name:G PF norm m13.zp
+	время+	
+	keywork:Игорь Шайхет
+	L:1
+	SL:0a
+	Фоновый трафик
+		вбиваю запрос
+		кликнул в 1
+		тусим на сайте akcenty.life
+	res_profile:OK
+	Dtime: 213,735
+	End: 01/28/2022 12:19:24
+-------
+	good end
+Start: 01/28/2022 13:58:01
+	Project Name:G PF norm m13.zp
+	время-	
+Start: 01/28/2022 14:07:56
+	Project Name:G PF norm m13.zp
+	время-	
+	время+	
+	keywork:Игорь Шайхет
+	L:NO
+	SL:0
+	WAY:SPEC
+		кликаю в цель поз№3 цель clarity-project.info
+	res_profile:OK
+	Dtime: 6038,328
+	End: 01/28/2022 15:49:57
+-------
+	good end
